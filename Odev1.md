@@ -29,10 +29,9 @@ Deneyi yapmadan önce internette bu problemle alakalı araştırmalar yapıp ger
 Bunları yaptıktan sonra elde ettiğimiz  sonuçları not edeceğiz ve  projemizi teslim edeceğiz.
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
 
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+ 1. Ron M. Nedderman , Statics and Kinematics of Granular Materials ( Cambridge U.P., Cambridge, 1992). 
 
+ 2.H. A. Janssen , “ Versuche über Getreidedruck in Silozellen,” Z. Ver. Dt. Ing. 39(35), 1045–1049 (1895). 
+ 
+ 3.Brian P. Tighe and Matthias Sperl , “ Pressure and motion of dry sand: translation of Hagen's paper from 1852,” Gran. Matter 9(3-4), 141–144 (2007). 

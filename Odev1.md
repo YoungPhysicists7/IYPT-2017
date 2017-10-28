@@ -9,12 +9,12 @@ Sınıf | Öğrenci İsmi  | Numara
 #  WEİGHİNG  TİME (Tartım süresi)
 ## Özet
 
-İypt 2018 problemlerinden olan deneyimizde, kum saatinin içindeki kum hareket halindeyken kum saatinin ağırlığının değişip değişmediğini araştırıp açıklamamız ve bunun hangi sebeplere dayanarak meydana geldiğini öğrenmemiz isteniyor.
+İypt 2018 problemlerinden 13.problem  olan deneyimizde, kum saatinin içindeki kum hareket halindeyken kum saatinin ağırlığının değişip değişmediğini araştırıp açıklamamız ve bunun hangi sebeplere dayanarak meydana geldiğini öğrenmemiz isteniyor.
 
 
-Deney Malzemeleri
+Yapacağımız Deney İçin Gerekli Malzemeler
 
-Ne kadar basit ve mantıklı bir deney olsa da deneyimiz ulaşımı zor bir malzeme gerektirmiyor. Gereken malzemeler bir adet kum saati ve hassas bir tartı.
+Oldukça basit ve mantıklı bir deney olsa da deneyimiz ulaşımı zor bir malzeme gerektirmiyor. Gereken malzemeler bir adet kum saati ve hassas bir tartı.
 
 
 Peki Bu Deneyi Nasıl Yapacağız?
